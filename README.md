@@ -88,22 +88,6 @@ Building practical applications using programming, databases,
 and web development technologies.
 </p>
 
-<hr>
-
-<h2>📈 GitHub Stats</h2>
-
-<div class="stats">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true" 
-alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" 
-alt="Top Languages">
-
-</div>
-
-<hr>
-
 <h2>🌱 Currently Learning</h2>
 
 <ul>
