@@ -133,7 +133,7 @@ data, and AI to develop meaningful solutions for real-world problems.
 
 <p>
 GitHub:
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/Dilini8888">
 https://github.com/YOUR-USERNAME
 </a>
 <br>
