@@ -2,8 +2,6 @@
 
 <h1>Hi there, I'm Dilini Anushika Dissanayaka 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Aspiring+Data+Scientist;Python+%7C+ML+%7C+Web+Development+Enthusiast;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -14,14 +12,12 @@
 
 </div>
 
-| | |
-|---|---|
-| 🎓 | **Computer Science Undergraduate** passionate about data and technology |
-| 📊 | **Aspiring Data Scientist** focused on real-world, data-driven solutions |
-| 🏥 | Interested in **AI & Data Science applications in Healthcare** |
-| 🌱 | Currently learning **Machine Learning, Deep Learning & Advanced Web Dev** |
-| 🤝 | Open to **collaborations, learning opportunities & internships** |
-| ⭐ | *Always learning, always growing!* |
+- 🎓 **Computer Science Undergraduate** passionate about data and technology
+- 📊 **Aspiring Data Scientist** focused on real-world, data-driven solutions
+- 🏥 Interested in **AI & Data Science applications in Healthcare**
+- 🌱 Currently learning **Machine Learning, Deep Learning & Advanced Web Dev**
+- 🤝 Open to **collaborations, learning opportunities & internships**
+- ⭐ *Always learning, always growing!*
 
 ---
 
@@ -37,15 +33,15 @@
 
 <br/><br/>
 
-**Web & Frameworks**
+**Web Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vuejs,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 
 <br/><br/>
 
 **Data Science & AI**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 &nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -54,15 +50,15 @@
 
 <br/><br/>
 
-**Databases & Cloud**
+**Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 <br/><br/>
 
-**Tools & DevOps**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 </div>
 
@@ -88,27 +84,12 @@
 
 <div align="center">
 
-### 🚀 Projects
-
-</div>
-
-| 🗂️ Category | 📝 Description |
-|:---|:---|
-| 📈 **Data Analysis** | Real-world datasets — data cleaning, EDA, visualization & statistical analysis |
-| 🏥 **Healthcare AI Research** | Applying AI, Data Science & Deep Learning to solve healthcare problems |
-| 💻 **Software Development** | Practical apps built with programming, databases & web technologies |
-
----
-
-<div align="center">
-
 ### 📚 Currently Learning
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Data%20Analysis-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![DL](https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Science-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Viz](https://img.shields.io/badge/Data%20Visualization-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Web](https://img.shields.io/badge/Advanced-Web%20Dev-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -140,8 +121,8 @@
   <img src="https://img.shields.io/badge/GitHub-Dilini8888-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR-LINKEDIN-URL-HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:YOUR-EMAIL-HERE">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
