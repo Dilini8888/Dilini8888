@@ -1,131 +1,29 @@
-<div class="container">
+<h1 align="center">Hi there, I'm Dilini Anushika Dissanayaka 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Aspiring+Data+Scientist;Python+%7C+ML+%7C+Web+Development+Enthusiast;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" /> </p>
+🙋‍♀️ About Me
+🎓 Computer Science Undergraduate passionate about data and technology
+📊 Aspiring Data Scientist focused on real-world, data-driven solutions
+🏥 Interested in AI & Data Science applications in Healthcare
+🌱 Currently learning Machine Learning, Deep Learning & Advanced Web Development
+🤝 Open to collaborations, learning opportunities & internships
+⭐ Always learning, always growing!
+🛠️ Languages & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,js,html,css,bootstrap" /><br/> <img src="https://skillicons.dev/icons?i=mysql,jupyter,git,github,vscode,react,tensorflow,docker,figma" /><br/> <img src="https://skillicons.dev/icons?i=aws,flutter,firebase,mongodb,nextjs,nodejs,vuejs" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dilini8888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilini8888&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilini8888&theme=tokyonight&hide_border=true" /> </p>
+🚀 Projects
+🗂️ Category	📝 Description
+📈 Data Analysis	Real-world datasets — cleaning, EDA, visualization & statistical analysis
+🏥 Healthcare AI Research	Applying AI, Data Science & Deep Learning to healthcare challenges
+💻 Software Development	Practical apps with programming, databases & web technologies
+📚 Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/Data%20Analysis-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-Data%20Science-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Web%20Dev-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Database%20Design-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
+🎯 My Goal
 
-<h1>👋 Hi, I'm Dilini Anushika Dissanayaka</h1>
+To become a skilled Data Scientist who combines programming, data, and AI to develop meaningful solutions for real-world problems — especially in healthcare and social impact.
 
-<p>
-🎓 Computer Science Undergraduate <br>
-📊 Aspiring Data Scientist <br>
-💻 Passionate about Programming, Data Science & Software Development <br>
-🌱 Currently learning Data Analysis, Machine Learning & Web Development <br>
-🚀 Interested in building practical and data-driven solutions
-</p>
-
-<hr>
-
-<h2>👩‍💻 About Me</h2>
-
-<ul>
-<li>🎯 I enjoy learning new technologies and continuously improving my technical skills</li>
-<li>📚 Interested in data science, programming, databases, and software development</li>
-<li>💡 Interested in creating real-world solutions through technology</li>
-<li>🏥 Interested in AI and Data Science applications in healthcare</li>
-<li>🤝 Open to collaboration, learning opportunities, and internships</li>
-</ul>
-
-<hr>
-
-<h2>🛠️ Skills & Technologies</h2>
-
-<h3>Programming Languages</h3>
-
-<span class="badge">Python</span>
-<span class="badge">C</span>
-<span class="badge">C++</span>
-<span class="badge">Java</span>
-<span class="badge">PHP</span>
-<span class="badge">JavaScript</span>
-
-<h3>Data Science & Analysis</h3>
-
-<span class="badge">Pandas</span>
-<span class="badge">NumPy</span>
-<span class="badge">Matplotlib</span>
-<span class="badge">Seaborn</span>
-
-<h3>Web Development</h3>
-
-<span class="badge">HTML</span>
-<span class="badge">CSS</span>
-<span class="badge">Bootstrap</span>
-<span class="badge">JavaScript</span>
-
-<h3>Database</h3>
-
-<span class="badge">MySQL</span>
-<span class="badge">SQL</span>
-
-<h3>Tools & Technologies</h3>
-
-<span class="badge">Jupyter Notebook</span>
-<span class="badge">Git</span>
-<span class="badge">GitHub</span>
-<span class="badge">VS Code</span>
-<span class="badge">Laragon</span>
-<span class="badge">XAMPP</span>
-
-<hr>
-
-<h2>📊 Projects</h2>
-
-<h3>🔹 Data Analysis Projects</h3>
-
-<p>
-Working with real-world datasets to perform data cleaning,
-exploratory data analysis, visualization, and statistical analysis.
-</p>
-
-<h3>🔹 Healthcare AI Research</h3>
-
-<p>
-Exploring the application of Artificial Intelligence, Data Science,
-and Deep Learning to solve real-world healthcare problems.
-</p>
-
-<h3>🔹 Software Development Projects</h3>
-
-<p>
-Building practical applications using programming, databases,
-and web development technologies.
-</p>
-
-<h2>🌱 Currently Learning</h2>
-
-<ul>
-<li>Data Analysis with Python</li>
-<li>Machine Learning</li>
-<li>SQL for Data Science</li>
-<li>Data Visualization</li>
-<li>Deep Learning</li>
-<li>Advanced Web Development</li>
-<li>Database Design</li>
-<li>Software Engineering Concepts</li>
-<li>Git & GitHub</li>
-</ul>
-
-<hr>
-
-<h2>🎯 My Goal</h2>
-
-<p>
-To become a skilled Data Scientist who can combine programming,
-data, and AI to develop meaningful solutions for real-world problems.
-</p>
-
-<hr>
-
-<h2>📫 Connect With Me</h2>
-
-<p>
-GitHub:
-<a href="https://github.com/Dilini8888">
-https://github.com/YOUR-USERNAME
-</a>
-<br>
-
-LinkedIn:
-<a href="YOUR-LINKEDIN-LINK">
-My LinkedIn Profile
-</a>
+📫 Connect With Me
+<p align="center"> <a href="https://github.com/Dilini8888"> <img src="https://img.shields.io/badge/GitHub-Dilini8888-181717?style=for-the-badge&logo=github"/> </a> &nbsp; <a href="YOUR-LINKEDIN-LINK"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dilini8888&style=flat-square&color=4FC3F7" alt="Profile Views"/> <br/> <em>✨ Thanks for visiting my profile! ✨</em> </p>
 </p>
 
 <hr>
