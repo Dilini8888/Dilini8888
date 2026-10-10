@@ -105,7 +105,7 @@
 ### 🎯 My Goal
 
 > *To become a skilled Data Scientist who combines programming, data, and AI*
-> *to develop meaningful solutions for real-world problems — especially in healthcare.*
+> *to develop meaningful solutions for real-world problems*
 
 </div>
 
