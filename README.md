@@ -14,8 +14,7 @@
 
 - 🎓 **Computer Science Undergraduate** passionate about data and technology
 - 📊 **Aspiring Data Scientist** focused on real-world, data-driven solutions
-- 🏥 Interested in **AI & Data Science applications in Healthcare**
-- 🌱 Currently learning **Machine Learning, Deep Learning & Advanced Web Dev**
+- 🌱 Currently learning **Machine Learning, Data Analysis & Advanced Web Development**
 - 🤝 Open to **collaborations, learning opportunities & internships**
 - ⭐ *Always learning, always growing!*
 
