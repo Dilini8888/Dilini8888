@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1>Hi there, I'm Dilini Anushika Dissanayaka 👋</h1>
@@ -14,7 +15,7 @@
 
 - 🎓 **Computer Science Undergraduate** passionate about data and technology
 - 📊 **Aspiring Data Scientist** focused on real-world, data-driven solutions
-- 🌱 Currently learning **Machine Learning, Data Analysis & Advanced Web Development**
+- 🌱 Currently learning **Machine Learning, Data Analysis, Bioinformatics & Advanced Web Development**
 - 🤝 Open to **collaborations, learning opportunities & internships**
 - ⭐ *Always learning, always growing!*
 
@@ -28,7 +29,7 @@
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,js" />
+<img src="https://skillicons.dev/icons?i=python,r,c,cpp,java,php,js" />
 
 <br/><br/>
 
@@ -38,14 +39,17 @@
 
 <br/><br/>
 
-**Data Science & AI**
+**Data Science, AI & Bioinformatics**
 
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 &nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 <br/><br/>
 
@@ -55,9 +59,9 @@
 
 <br/><br/>
 
-**Tools**
+**Tools & IDEs**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,rstudio" />
 
 </div>
 
@@ -88,9 +92,12 @@
 <br/>
 
 ![Python](https://img.shields.io/badge/Data%20Analysis-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Programming-276DC3?style=flat-square&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-IDE-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Science-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Viz](https://img.shields.io/badge/Data%20Visualization-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Web](https://img.shields.io/badge/Advanced-Web%20Dev-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![DB](https://img.shields.io/badge/Database-Design-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20%26-GitHub-F05032?style=flat-square&logo=git&logoColor=white)
@@ -104,7 +111,8 @@
 ### 🎯 My Goal
 
 > *To become a skilled Data Scientist who combines programming, data, and AI*
-> *to develop meaningful solutions for real-world problems*
+>
+> *to develop meaningful solutions for real-world problems.*
 
 </div>
 
